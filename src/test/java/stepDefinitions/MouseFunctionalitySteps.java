@@ -9,7 +9,7 @@ public class MouseFunctionalitySteps {
 	@Given("User has mouse")
 	public void user_has_mouse() {
 	    System.out.println();
-	    System.out.println("Step 1");
+	    //System.out.println("Step 1");
 	}
 
 	@When("User clicks mouse")
